@@ -6,32 +6,34 @@ Analyze sales performance across products, regions, and sales representatives.
 
 Tools
 
-Power BI 
+* Power BI 
 
-Power Query 
+* Power Query 
 
-DAX Dashboard Features 
+* DAX Dashboard Features 
 
-Revenue trends 
+* Revenue trends 
 
-Top-performing products 
+* Top-performing products 
 
-Regional analysis 
+* Regional analysis 
 
-KPI cards 
+* KPI cards 
 
-Interactive filters 
+* Interactive filters 
 
 Business Insights
 
-Asia Pacific leads revenue” and “Australia and India lead profit
+- Asia Pacific leads revenue” and “Australia and India lead profit
 
-Technology had the highest profit margin. 
+- Technology had the highest profit margin. 
 
-Sales dropped in October for 3 years.
+- Sales dropped in October for 3 years.
 
 Files
 
-Sales_Performance_Dashboard.pbix 
-Dashboard.png 
-README.md
+1. Sales_Performance_Dashboard.pbix 
+
+2. Dashboard.png 
+
+3. README.md
