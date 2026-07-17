@@ -1,6 +1,7 @@
 Sales Performance Dashboard
 
-Objective 
+Objective
+
 Analyze sales performance across products, regions, and sales representatives. 
 
 Tools
