@@ -12,10 +12,15 @@ This repository showcases projects demonstrating my skills in:
 6. Business intelligence
 
 Featured Projects
+
 📊 Sales Performance Dashboard
+
 📈 GCC Dashboard
 
 🚧 More projects coming soon:
+
 Healthcare KPI Dashboard
+
 HR Analytics Dashboard
+
 Financial Dashboard
